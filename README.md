@@ -1,5 +1,7 @@
 ## 🕎 **אור מתגבר על חושך – סיפור חנוכה בשירה חיה**
 
+<img width="1536" height="1024" alt="Hanukkah Spiritual Conflict" src="https://github.com/user-attachments/assets/168010d5-5714-4ff7-9cb0-b3b59811dc37" />
+
 **שם למאגר פיתוח:** **HanukahPulse (HP)** — *Hanukah × Pulse*
 
 סיפור חנוכה בשירה: https://chatgpt.com/share/693f091c-3968-8013-af9c-eec7e15cd283
