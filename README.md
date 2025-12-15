@@ -2,6 +2,9 @@
 
 <img width="1536" height="1024" alt="Hanukkah Spiritual Conflict" src="https://github.com/user-attachments/assets/168010d5-5714-4ff7-9cb0-b3b59811dc37" />
 
+<img width="1024" height="1536" alt="Futuristic Hanukkah celebration in neon" src="https://github.com/user-attachments/assets/a337c998-69c9-44d0-9e75-703fc4b14b10" />
+
+
 **שם למאגר פיתוח:** **HanukahPulse (HP)** — *Hanukah × Pulse*
 
 סיפור חנוכה בשירה: https://chatgpt.com/share/693f091c-3968-8013-af9c-eec7e15cd283
